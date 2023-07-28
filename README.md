@@ -1,8 +1,7 @@
 # Portfolio
-
-- Please download Portfolio_Myoung Geun Jang.pdf file. 
-- 안녕하세요. 장명근 포트폴리오 입니다.
-
+ 
+> 안녕하세요. 장명근 포트폴리오 입니다.
+- If you need a PDF file, Please download Portfolio_Myoung Geun Jang.pdf file. 
 
 <img src="./img/001.jpg">
 <img src="./img/002.jpg">

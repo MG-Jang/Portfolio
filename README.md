@@ -6,9 +6,9 @@
 <img src="./img/001.jpg">
 <img src="./img/002.jpg">
 <img src="./img/003.jpg">
-<img src="./img/009.jpg">
-- 프로젝트 Github: <br>
+- Morai 시뮬레이터 프로젝트 Github: <br>
 https://github.com/MG-Jang/Morai-autonomous-simulator
+<img src="./img/009.jpg">
 <img src="./img/010.jpg">
 <img src="./img/011.jpg">
 <img src="./img/012.jpg">

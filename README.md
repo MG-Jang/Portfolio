@@ -9,6 +9,9 @@
 
 - Morai 시뮬레이터 프로젝트 Github: <br>
 https://github.com/MG-Jang/Morai-autonomous-simulator
+
+- 4족 보행 로봇 프로젝트 Github: <br>
+https://github.com/MG-Jang/SAMSUNG-IOT-ROBOT-PJT-BOBI
 <img src="./img/009.jpg">
 <img src="./img/010.jpg">
 <img src="./img/011.jpg">

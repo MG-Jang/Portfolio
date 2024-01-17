@@ -28,3 +28,5 @@ https://github.com/MG-Jang/SAMSUNG-IOT-ROBOT-PJT-BOBI
 <img src="./img/007.jpg">
 <img src="./img/008.jpg">
 <img src="./img/018.jpg">
+<img src="./img/019.jpg">
+

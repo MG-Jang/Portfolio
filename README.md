@@ -15,7 +15,6 @@ https://github.com/MG-Jang/Morai-autonomous-simulator
 https://github.com/MG-Jang/SAMSUNG-IOT-ROBOT-PJT-BOBI
 
 <img src="./img/009.jpg">
-<img src="./img/010.jpg">
 <img src="./img/011.jpg">
 <img src="./img/012.jpg">
 <img src="./img/013.jpg">

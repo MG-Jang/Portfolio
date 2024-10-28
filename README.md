@@ -10,7 +10,7 @@ Hello. This is the portfolio of developer Jang Myoung-geun.
 > 자율주행 배송 시뮬레이터 프로젝트 Github: <br>
 https://github.com/MG-Jang/Morai-autonomous-simulator
 <br>
-> 4족 보행 로봇 프로젝트 Github: <br>
+> 4족 보행 홈 IoT 로봇 프로젝트 Github: <br>
 https://github.com/MG-Jang/SAMSUNG-IOT-ROBOT-PJT-BOBI
 <br>
 

@@ -2,7 +2,8 @@
  
 ## 안녕하세요. 개발자 장명근의 포트폴리오 입니다.<br/>
 Hello. This is the portfolio of developer Jang Myoung-geun.
-- If you need a PDF file, Please download Portfolio_Myoung Geun Jang.pdf file. 
+- If you need a PDF file, Please download Portfolio_Myoung Geun Jang.pdf file.
+- PDF 파일 형태로 확인 필요하신 분은 위 Portfolio_Myoung Geun Jang.pdf를 다운받아 주세요.
 
 <img src="./img/001.jpg">
 <img src="./img/002.jpg">
